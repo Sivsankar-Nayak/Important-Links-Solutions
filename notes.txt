@@ -1,0 +1,9 @@
+ To update to the latest version of node js and npm, use the n package installed via npm:
+
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+
+for more info:- https://askubuntu.com/questions/49390/how-do-i-install-the-latest-version-of-node-js
+
+
